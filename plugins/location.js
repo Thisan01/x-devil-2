@@ -3,7 +3,7 @@ Telegram: t.me/Thisan01
 */
 
 const Asena = require('../events');
-const {MessageType, GroupSettingChange} = require('@adiwajshing/baileys'); // Boredom 😬
+const {MessageType, GroupSettingChange} = require('@adiwajshing/baileys'); // Boredom 😅
 
 const Language = require('../language');
 const Lang = Language.getString('locate'); // Language supp. 😉
